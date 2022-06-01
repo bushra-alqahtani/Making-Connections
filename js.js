@@ -26,5 +26,5 @@ function hide2(e){
 
 function edit(){
 
-    name1.innerHTML="Asma";
+    name1.innerHTML="Bushra Alqahtani :D";
 }
